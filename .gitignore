@@ -1,40 +1,9 @@
-# Logs
-logs
-*.log
-/logs
-
-# Deployment builds
-dist
-
-# Dependency directories
-node_modules
-npm/node_modules
-
-# NPM / Yarn
-.npm
-.node_repl_history
-npm-debug.log*
-
-# NewRelic APM
-newrelic.js
-
-# Generated assets
-/assets/js
-
-# Fusebox
-.fusebox
-
-# Config Files
+assets
 config.yml
+data
+logs
+node_modules
+repo
 
-# Data directories
-/repo
-/data
-/uploads
 
-# IDE exclude
-.idea
-*.sublime-*
 
-# Test results
-test-results/
